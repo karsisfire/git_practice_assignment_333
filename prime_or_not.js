@@ -5,7 +5,7 @@ for(let i = 0; i <= num; i++){
         facto += 1;
     }
 }
-if(facto < 2){
+if(facto == 2){
     console.log("Prime");
 }
 else{
